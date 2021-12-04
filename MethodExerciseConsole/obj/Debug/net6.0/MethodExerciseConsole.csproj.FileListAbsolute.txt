@@ -1,0 +1,15 @@
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.exe
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.deps.json
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\ref\MethodExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\ref\MethodExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.genruntimeconfig.cache
